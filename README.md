@@ -1,1 +1,1 @@
-[![Fanorisky GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanorisky&show_icons=true&count_private=true&theme=synthwave)](https://github.com/Fanorisky/)
+![Fanorisky's Stats](https://github-readme-stats.vercel.app/api?username=Fanorisky&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
